@@ -1,7 +1,18 @@
-## Hi there 👋
+<h1>Hi, I'm Nathan!
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- <b>Ping Flood Simulation & Defense</b>
+  - [Simulating Traffic & Remediating](https://github.com/nathanb565/PingFloodSimulation-Defense)
+ 
+- <b>Ubuntu Server Hardening</b>
+  - [Hardening Methods](https://github.com/nathanb565/Ubuntu_Server_Hardening)
+
+- <b>Brute Force Attack Simulation & Defense</b>
+  - [How to Simulate and Remediate Brute Force](https://github.com/nathanb565/BruteForceSIm)
 
 <!--
-**nathanb565/nathanb565** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
