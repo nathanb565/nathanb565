@@ -13,6 +13,8 @@
  
 <h2>👨‍💻 IT Support Projects Projects:</h2>
 
+- <b>Active Directory management</b>
+  - [Managing Windows Users](https://github.com/nathanb565/ADLab/blob/main/README.md)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
